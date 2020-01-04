@@ -441,4 +441,4 @@ class Algorithm:
         print("Final distance: " + str(bestRoute[0][1]))
         print(pop[bestRoute[0][0]])
 
-data=Algorithm(r'qa194.tsp.txt', popSize=100, eliteSize=20, generations=500, probCross=0.75, probMut=0.5, forceMut=True)
+data=Algorithm(r'qa194.tsp.txt', popSize=100, eliteSize=30, generations=500, probCross=0.5, probMut=0.75, forceMut=True)
