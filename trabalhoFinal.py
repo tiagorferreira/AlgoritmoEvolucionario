@@ -1,13 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-'''
-# File: trabalho2.py
-# Created Date: Friday January 3rd 2020
-# Author: Debora Antunes
-# -----
-# Last Modified: Saturday, January 4th 2020, 8:10:26 pm
-# -----
-'''
+
 import random, operator, math, sys
 
 class Algorithm:
